@@ -1,0 +1,66 @@
+body{
+    background-color: lightgrey;
+    font-family: "Times New Roman";
+}
+
+
+.navbar-brand{
+    color:white;
+    margin-left: 100px; 
+    padding: 10px; 
+    font-weight: bold; 
+    background-color: lightseagreen ;
+}
+.navigation{
+    background-color: white;
+}
+.vis-title{
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+.page-title{
+    color: lightseagreen;
+    font-weight: bold; 
+}
+.compar-title{
+    color: lightseagreen;
+    font-weight: bold; 
+}
+.data-title{
+    color: lightseagreen;
+    font-weight: bold; 
+    font-size: 30px;
+}
+.compar-graph{
+    color: lightseagreen;
+    font-weight: bold; 
+    text-align: center; 
+}
+
+.visualizations{
+    color:black;
+    margin-right: 10px;
+}
+.images{
+    width:100%;
+}
+.box1{
+    background-color: white;
+    padding:10px;
+}
+.box2{
+    background-color: white;
+    padding:20px;
+}
+.box3{
+    background-color: white;
+    padding:20px;
+}
+.box4{
+    background-color: white;
+    padding:20px;
+}
+.dataframe{
+    header:center ;
+}
